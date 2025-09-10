@@ -70,26 +70,6 @@ header p:hover{
     top: 0;
 }
 
-.text2 
-{
-    margin-top: 340px;
-    margin-left: 650px;
-    font-size: 16px;
-    line-height: 1.6;
-    width: 55%;
-    color: #eeeeee;
-    margin-bottom: 150px; 
-}
-
-.profile2 img {
-    position: absolute; 
-    float: left;
-    width: 40%; 
-    margin-left: 20px; 
-    margin-bottom: 20px; 
-    margin-top: 730px;
-    top: 0;
-}
 .navbar{
     position: fixed;
     top: 70px;
